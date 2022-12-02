@@ -13,8 +13,8 @@ const siteConfig = {
   tagline: 'A website for testing',
   // // Used for publishing and more
   url: 'https://mayurdhepe.github.io', // Your website URL
-  baseUrl: '/CS-5744-Project-2/CS-5744-Project-2/',
-  projectName: 'cs-5744-project-2',
+  baseUrl: '/Project-2-CS-5744/Project-2-CS-5744/',
+  projectName: 'Project-2-CS-5744',
   organizationName: 'mayurdhepe',
 
   // For no header links in the top nav bar -> headerLinks: [],
